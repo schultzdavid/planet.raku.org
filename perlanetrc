@@ -83,9 +83,6 @@ feeds:
  -  url: https://wakelift.de/rss/
     title: my Timotimo \this
     web: https://wakelift.de/
- -  url: https://medium.com/feed/@jcoterhals/
-    title: Jo Christian Oterhals
-    web: https://medium.com/@jcoterhals/
  -  url: https://rakudoweekly.blog/feed/
     title: Rakudo Weekly News
     web: https://rakudoweekly.blog/
