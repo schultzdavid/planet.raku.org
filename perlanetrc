@@ -17,7 +17,10 @@ feed:
   file: rss.xml
   format: RSS
 feeds:
- -  url:  http://blogs.perl.org/users/pawel_bbkr_pabian/atom.xml
+ -  url: https://dev.to/feed/lizmat
+    title: Raku blog posts on dev.to
+    web: https://dev.to/feed/lizmat
+ -  url: http://blogs.perl.org/users/pawel_bbkr_pabian/atom.xml
     title: Pawel bbkr Pabian
     web: http://blogs.perl.org/users/pawel_bbkr_pabian/atom.xml
  -  url:  http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
