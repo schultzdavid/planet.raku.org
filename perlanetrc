@@ -18,7 +18,7 @@ feed:
   format: RSS
 feeds:
  -  url: https://dev.to/feed/lizmat
-    title: Raku blog posts on dev.to
+    title: Elizabeth Mattijsen
     web: https://dev.to/feed/lizmat
  -  url: http://blogs.perl.org/users/pawel_bbkr_pabian/atom.xml
     title: Pawel bbkr Pabian
