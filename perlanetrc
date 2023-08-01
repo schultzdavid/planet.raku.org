@@ -17,12 +17,15 @@ feed:
   file: rss.xml
   format: RSS
 feeds:
+ -  url: https://dev.to/feed/finanalyst
+    title: Richard Hainsworth
+    web: https://dev.to/feed/finanalyst
  -  url: https://dev.to/feed/lizmat
     title: Elizabeth Mattijsen
     web: https://dev.to/feed/lizmat
- -  url: http://blogs.perl.org/users/pawel_bbkr_pabian/atom.xml
-    title: Pawel bbkr Pabian
-    web: http://blogs.perl.org/users/pawel_bbkr_pabian/atom.xml
+ -  url: http://dev.to/feed/bbkr
+    title: Paweł bbkr Pabian
+    web: http://dev.to/feed/bbkr
  -  url:  http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
     title: brrt to the future
     web: http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
