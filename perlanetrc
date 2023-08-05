@@ -17,6 +17,9 @@ feed:
   file: rss.xml
   format: RSS
 feeds:
+ -  url: https://https://rakuforprediction.wordpress.com/feed
+    title: Anton Antonov
+    web: https://rakuforprediction.wordpress.com
  -  url: https://rakujourney.wordpress.com/feed
     title: Steve Roe
     web: https://rakujourney.wordpress.com
