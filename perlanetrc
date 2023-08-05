@@ -17,7 +17,7 @@ feed:
   file: rss.xml
   format: RSS
 feeds:
- -  url: https://https://rakuforprediction.wordpress.com/feed
+ -  url: https://rakuforprediction.wordpress.com/feed
     title: Anton Antonov
     web: https://rakuforprediction.wordpress.com
  -  url: https://rakujourney.wordpress.com/feed
