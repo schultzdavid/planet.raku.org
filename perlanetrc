@@ -2,7 +2,7 @@ title: Planet Raku
 description: Raku RSS Feeds
 url: http://pl6anet.org/
 author:
-  name: 'Roman Baumer (Freenode: rba #raku or ##raku-infra)'
+  name: 'Elizabeth Mattijsen (Libera: lizmat #raku)'
   email: 
 entries: 50
 opml: /home/pl6anet.org/pl6anet.org/opml.xml
@@ -17,15 +17,18 @@ feed:
   file: rss.xml
   format: RSS
 feeds:
+ -  url: https://rakujourney.wordpress.com/feed
+    title: Steve Roe
+    web: https://rakujourney.wordpress.com
  -  url: https://dev.to/feed/finanalyst
     title: Richard Hainsworth
     web: https://dev.to/feed/finanalyst
  -  url: https://dev.to/feed/lizmat
     title: Elizabeth Mattijsen
-    web: https://dev.to/feed/lizmat
+    web: https://dev.to/lizmat
  -  url: http://dev.to/feed/bbkr
     title: Paweł bbkr Pabian
-    web: http://dev.to/feed/bbkr
+    web: http://dev.to/bbkr
  -  url:  http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
     title: brrt to the future
     web: http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
