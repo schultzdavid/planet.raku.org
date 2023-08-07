@@ -17,12 +17,12 @@ feed:
   file: rss.xml
   format: RSS
 feeds:
- -  url: https://rakuforprediction.wordpress.com/feed
+ -  url: https://rakuforprediction.wordpress.com/feed/
     title: Anton Antonov
-    web: https://rakuforprediction.wordpress.com/feed
- -  url: https://rakujourney.wordpress.com/feed
+    web: https://rakuforprediction.wordpress.com/feed/
+ -  url: https://rakujourney.wordpress.com/feed/
     title: Steve Roe
-    web: https://rakujourney.wordpress.com/feed
+    web: https://rakujourney.wordpress.com/feed/
  -  url: https://dev.to/feed/finanalyst
     title: Richard Hainsworth
     web: https://dev.to/feed/finanalyst
