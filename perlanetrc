@@ -83,9 +83,6 @@ feeds:
  -  url: https://stmuk.wordpress.com/feed/
     title: stmuk
     web: https://stmuk.wordpress.com/
- -  url: https://rakujourney.wordpress.com/feed/
-    title: Steve Roe
-    web: https://rakujourney.wordpress.com/
  -  url: https://andrewshitov.com/category/raku-programming-language/feed/
     title: Andrew Shitov
     web: https://andrewshitov.com/category/raku-programming-language/
