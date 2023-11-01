@@ -1,10 +1,10 @@
 # planet.raku.org
 
 This repo provides the links for the Raku news feeds on
-[pl6anet.org](https://pl6anet.org).
+[planet.raku.org](https://planet.raku.org).
 
 That collection is the source for the world-famous
-[Raku Weekly News](https://rakudoweekly.blog/blog-feed) 
+[Rakudo Weekly News](https://rakudoweekly.blog/blog-feed) 
 which is curated and edited by Elizabeth Mattijsen.
 
 Persons who wish to add their favorite Raku blog sites
@@ -29,7 +29,7 @@ The **url** is the path to the file containing the actual atom or rss code. Note
 example above probably ends at the implied **index.html**.
 
 The **title** is what the author wants the viewer of 
-[pl6anet.org](https://pl6anet.org) to see for his or her entry.
+[planet.raku.org](https://planet.raku.org) to see for his or her entry.
 
 The **web** is the link to the home page of the blog being referenced.
 
