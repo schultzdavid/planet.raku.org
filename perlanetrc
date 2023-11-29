@@ -17,7 +17,7 @@ feed:
   file: rss.xml
   format: RSS
 feeds:
- -  url: https://5ab5traction5.bearblog.dev/feed
+ -  url: https://5ab5traction5.bearblog.dev/feed/
     title: John Haltiwanger
     web: https://5ab5traction5.bearblog.dev
  -  url: https://rakuforprediction.wordpress.com/feed/
