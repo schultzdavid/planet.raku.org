@@ -56,9 +56,6 @@ feeds:
  -  feed:  https://6guts.wordpress.com/feed/
     title: 6guts
     web: https://6guts.wordpress.com/feed/
- -  feed:  http://perl6maven.com/atom
-    title: Perl 6 Maven
-    web: http://perl6maven.com/atom
  -  feed:  http://www.nntp.perl.org/rss/perl.perl6.announce.rdf
     title: perl.perl6.announce
     web: http://www.nntp.perl.org/rss/perl.perl6.announce.rdf
