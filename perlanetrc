@@ -1,20 +1,20 @@
 title: Planet Raku
 description: Raku RSS Feeds
-url: http://pl6anet.org/
+url: http://planet.raku.org/
 author:
   name: 'Elizabeth Mattijsen (Libera: lizmat #raku)'
-  email: 
+  email:
 entries: 50
-opml: /home/pl6anet.org/pl6anet.org/opml.xml
-cache_dir: /home/pl6anet.org/pl6anet.org/cache
+opml: /var/www/htdocs/planet.raku.org/opml.xml
+cache_dir: /home/planet.raku.org/planet.raku.org/cache
 page:
-  file: /home/pl6anet.org/pl6anet.org/index.html
+  file: /var/www/htdocs/planet.raku.org/index.html
   template: index.tt
 feed:
-  file: atom.xml
+  file: /var/www/htdocs/planet.raku.org/atom.xml
   format: Atom
 feed:
-  file: rss.xml
+  file: /var/www/htdocs/planet.raku.org/rss.xml
   format: RSS
 feeds:
  -  url: https://5ab5traction5.bearblog.dev/feed/
