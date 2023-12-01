@@ -17,84 +17,84 @@ feed:
   file: /var/www/htdocs/planet.raku.org/rss.xml
   format: RSS
 feeds:
- -  url: https://5ab5traction5.bearblog.dev/feed/
+ -  feed: https://5ab5traction5.bearblog.dev/feed/
     title: John Haltiwanger
     web: https://5ab5traction5.bearblog.dev
- -  url: https://rakuforprediction.wordpress.com/feed/
+ -  feed: https://rakuforprediction.wordpress.com/feed/
     title: Anton Antonov
     web: https://rakuforprediction.wordpress.com/feed/
- -  url: https://rakujourney.wordpress.com/feed/
+ -  feed: https://rakujourney.wordpress.com/feed/
     title: Steve Roe
     web: https://rakujourney.wordpress.com/feed/
- -  url: https://dev.to/feed/finanalyst
+ -  feed: https://dev.to/feed/finanalyst
     title: Richard Hainsworth
     web: https://dev.to/feed/finanalyst
- -  url: https://dev.to/feed/lizmat
+ -  feed: https://dev.to/feed/lizmat
     title: Elizabeth Mattijsen
     web: https://dev.to/lizmat
- -  url: http://dev.to/feed/bbkr
+ -  feed: http://dev.to/feed/bbkr
     title: Paweł bbkr Pabian
     web: http://dev.to/bbkr
- -  url:  http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
+ -  feed:  http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
     title: brrt to the future
     web: http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
- -  url:  http://blog.brentlaabs.com/feeds/posts/default/-/perl6
+ -  feed:  http://blog.brentlaabs.com/feeds/posts/default/-/perl6
     title: Irregular Expression
     web: http://blog.brentlaabs.com/feeds/posts/default/-/perl6
- -  url:  http://pmthium.com/feed/
+ -  feed:  http://pmthium.com/feed/
     title: Pmthium
     web: http://pmthium.com/feed/
- -  url: https://perlgeek.de/blog-en.cgi/perl-6/index.rss
+ -  feed: https://perlgeek.de/blog-en.cgi/perl-6/index.rss
     title: Perlgeek.de
     web: https://perlgeek.de/blog-en.cgi
- -  url:  http://rakudo.org/feed/
+ -  feed:  http://rakudo.org/feed/
     title: rakudo.org
     web: http://rakudo.org/feed/
- -  url:  https://raku-advent.blog/feed/
+ -  feed:  https://raku-advent.blog/feed/
     title: Raku Advent Calendar
     web: https://raku-advent.blog
- -  url:  https://6guts.wordpress.com/feed/
+ -  feed:  https://6guts.wordpress.com/feed/
     title: 6guts
     web: https://6guts.wordpress.com/feed/
- -  url:  http://perl6maven.com/atom
+ -  feed:  http://perl6maven.com/atom
     title: Perl 6 Maven
     web: http://perl6maven.com/atom
- -  url:  http://www.nntp.perl.org/rss/perl.perl6.announce.rdf
+ -  feed:  http://www.nntp.perl.org/rss/perl.perl6.announce.rdf
     title: perl.perl6.announce
     web: http://www.nntp.perl.org/rss/perl.perl6.announce.rdf
- -  url: http://stevemynott.blogspot.com/feeds/posts/default
+ -  feed: http://stevemynott.blogspot.com/feeds/posts/default
     title: Steve Mynott
     web: http://stevemynott.blogspot.com/feeds/posts/default
- -  url: http://ugexe.com/rss/
+ -  feed: http://ugexe.com/rss/
     title: Death by Perl6
     web: http://ugexe.com/rss/
- -  url: http://jdv79.blogspot.com/feeds/posts/default/-/Perl6
+ -  feed: http://jdv79.blogspot.com/feeds/posts/default/-/Perl6
     title: jdv
     web: http://jdv79.blogspot.com/feeds/posts/default/-/Perl6
- -  url: https://hoelz.ro/perl6.rss
+ -  feed: https://hoelz.ro/perl6.rss
     title: hoelzro
     web: https://hoelz.ro/
- -  url: https://gfldex.wordpress.com/feed/
+ -  feed: https://gfldex.wordpress.com/feed/
     title: gfldex
     web: https://gfldex.wordpress.com/
- -  url: https://cry.nu/feed.xml
+ -  feed: https://cry.nu/feed.xml
     title: samcv
     web: https://cry.nu
- -  url: http://blogs.perl.org/users/steve_mynott/atom.xml
+ -  feed: http://blogs.perl.org/users/steve_mynott/atom.xml
     title: Steve Mynott
-    web: http://blogs.perl.org/users/steve_mynott/atom.xml 
- -  url: https://stmuk.wordpress.com/feed/
+    web: http://blogs.perl.org/users/steve_mynott/atom.xml
+ -  feed: https://stmuk.wordpress.com/feed/
     title: stmuk
     web: https://stmuk.wordpress.com/
- -  url: https://andrewshitov.com/category/raku-programming-language/feed/
+ -  feed: https://andrewshitov.com/category/raku-programming-language/feed/
     title: Andrew Shitov
     web: https://andrewshitov.com/category/raku-programming-language/
- -  url: https://wakelift.de/rss/
+ -  feed: https://wakelift.de/rss/
     title: my Timotimo \this
     web: https://wakelift.de/
- -  url: https://rakudoweekly.blog/feed/
+ -  feed: https://rakudoweekly.blog/feed/
     title: Rakudo Weekly News
     web: https://rakudoweekly.blog/
- -  url: https://vrurg.github.io/feed.xml
+ -  feed: https://vrurg.github.io/feed.xml
     title: vrurg
     web: https://vrurg.github.io/
