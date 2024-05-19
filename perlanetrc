@@ -32,9 +32,6 @@ feeds:
  -  feed: https://dev.to/feed/lizmat
     title: Elizabeth Mattijsen
     web: https://dev.to/lizmat
- -  feed: http://dev.to/feed/bbkr
-    title: Paweł bbkr Pabian
-    web: http://dev.to/bbkr
  -  feed:  http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
     title: brrt to the future
     web: http://brrt-to-the-future.blogspot.com/feeds/posts/default/-/perl6
