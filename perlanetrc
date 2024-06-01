@@ -29,6 +29,9 @@ feeds:
  -  feed: https://dev.to/feed/finanalyst
     title: Richard Hainsworth
     web: https://dev.to/feed/finanalyst
+ -  feed: https://dev.to/feed/melezhik
+    title: Alexey Melezhik
+    web: https://dev.to/melezhik
  -  feed: https://dev.to/feed/lizmat
     title: Elizabeth Mattijsen
     web: https://dev.to/lizmat
