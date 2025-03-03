@@ -17,6 +17,9 @@ feed:
   file: /var/www/htdocs/planet.raku.org/rss.xml
   format: RSS
 feeds:
+ -  feed: https://dev.to/feed/fco
+    title: Fernando Corrêa de Oliveira
+    web: https://dev.to/fco
  -  feed: https://5ab5traction5.bearblog.dev/feed/
     title: John Haltiwanger
     web: https://5ab5traction5.bearblog.dev
@@ -28,7 +31,7 @@ feeds:
     web: https://rakujourney.wordpress.com/feed/
  -  feed: https://dev.to/feed/finanalyst
     title: Richard Hainsworth
-    web: https://dev.to/feed/finanalyst
+    web: https://dev.to/finanalyst
  -  feed: https://dev.to/feed/melezhik
     title: Alexey Melezhik
     web: https://dev.to/melezhik
